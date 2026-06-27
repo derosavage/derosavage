@@ -1,6 +1,6 @@
 ## Hi there 👋
 if tony stark and black panther had a kid that would be me
-tech bro
+
 
 <!--
 **derosavage/derosavage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
